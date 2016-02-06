@@ -20,7 +20,7 @@ Your argument must be a python expression, standard web based math syntax is not
 ## Example Expressions:
   - Numbers: `10`
   - Linear functions: `1 / 4 * x + 5`
-  - Absolute value functions `abs(x - 5) + 5`
+  - Absolute value functions: `abs(x - 5) + 5`
   - Vertex form: `(x ** 2 - 10) + 5`
   - Intercept form: `(9 - x) * (5 - x)`
   - Rational functions: `25 / x`
